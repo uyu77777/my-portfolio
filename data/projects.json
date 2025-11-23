@@ -5,8 +5,8 @@
     "slug": "personal-blog",
     "summary": "My personal website — by me, for me.",
     "description": "A blog site I made for myself, primarily using HTML and CSS. I update it occasionally. Pure self-indulgence.",
-    "image": "/placeholder.svg?height=400&width=600",
-    "thumbnail": "/placeholder.svg?height=200&width=300",
+    "image": "/picture3.png?height=400&width=600",
+    "thumbnail": "/picture.png?height=200&width=300",
     "technologies": [
       "HTML",
       "CSS",
