@@ -56,30 +56,28 @@
   },
   {
     "id": "project-3",
-    "title": "Task Management App",
-    "slug": "task-manager",
-    "summary": "Collaborative task manager with real-time updates and team features.",
-    "description": "A powerful task management application with real-time collaboration, custom workflows, and detailed analytics. Built for teams who want to get things done.",
-    "image": "/picture2.png?height=400&width=600",
-    "thumbnail": "/picture1.png?height=200&width=300",
+    "title": "CatGPT",
+    "slug": "cat-gpt",
+    "summary": "A cat will answer your questions.",
+    "description": "Add the LINE account as a friend, and you can literally chat with a cat.",
+    "image": "/picture4.png?height=400&width=600",
+    "thumbnail": "/picture4.png?height=200&width=300",
     "technologies": [
-      "Next.js",
-      "TypeScript",
-      "Supabase",
-      "Tailwind CSS"
+      "JavaScript",
+      "Json"
     ],
     "features": [
-      "Real-time collaboration",
-      "Custom workflows",
-      "Team management",
-      "Activity tracking",
-      "Export capabilities"
+      "Automated conversational bot",
+      "non-profit",
+      "Simple UI",
+      "Webhook-based real-time interaction",
+      "Lightweight, serverless deployment"
     ],
     "links": {
       "github": "https://github.com/yourusername/task-manager",
-      "live": "https://task-manager-demo.vercel.app"
+      "live": "https://lin.ee/vBwOBBd"
     },
-    "date": "2024-03",
+    "date": "2025-11",
     "featured": true
   }
 ]
