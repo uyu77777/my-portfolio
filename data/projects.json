@@ -1,0 +1,71 @@
+[
+  {
+    "id": "project-1",
+    "title": "AI Chat Interface",
+    "slug": "ai-chat-interface",
+    "summary": "Real-time chat with streaming AI responses and message persistence.",
+    "description": "A full-featured chat application built with Next.js and the AI SDK. Features real-time messaging, streaming responses, dark mode support, and a clean, minimal UI.",
+    "image": "/placeholder.svg?height=400&width=600",
+    "thumbnail": "/placeholder.svg?height=200&width=300",
+    "technologies": ["Next.js", "React", "TypeScript", "Tailwind CSS", "AI SDK"],
+    "features": [
+      "Real-time streaming responses",
+      "Message history with persistence",
+      "Dark mode optimized",
+      "Responsive design",
+      "Type-safe implementation"
+    ],
+    "links": {
+      "github": "https://github.com/yourusername/ai-chat",
+      "live": "https://ai-chat-demo.vercel.app"
+    },
+    "date": "2024-01",
+    "featured": true
+  },
+  {
+    "id": "project-2",
+    "title": "Design System Component Library",
+    "slug": "design-system",
+    "summary": "Reusable UI component library with comprehensive documentation.",
+    "description": "A custom component library featuring buttons, cards, inputs, and more. Built with TypeScript, Tailwind CSS, and Storybook for interactive documentation.",
+    "image": "/placeholder.svg?height=400&width=600",
+    "thumbnail": "/placeholder.svg?height=200&width=300",
+    "technologies": ["React", "TypeScript", "Tailwind CSS", "Storybook"],
+    "features": [
+      "60+ UI components",
+      "Fully typed with TypeScript",
+      "Storybook documentation",
+      "Dark mode support",
+      "Accessibility compliant"
+    ],
+    "links": {
+      "github": "https://github.com/yourusername/design-system",
+      "live": "https://design-system-demo.vercel.app"
+    },
+    "date": "2024-02",
+    "featured": true
+  },
+  {
+    "id": "project-3",
+    "title": "Task Management App",
+    "slug": "task-manager",
+    "summary": "Collaborative task manager with real-time updates and team features.",
+    "description": "A powerful task management application with real-time collaboration, custom workflows, and detailed analytics. Built for teams who want to get things done.",
+    "image": "/placeholder.svg?height=400&width=600",
+    "thumbnail": "/placeholder.svg?height=200&width=300",
+    "technologies": ["Next.js", "TypeScript", "Supabase", "Tailwind CSS"],
+    "features": [
+      "Real-time collaboration",
+      "Custom workflows",
+      "Team management",
+      "Activity tracking",
+      "Export capabilities"
+    ],
+    "links": {
+      "github": "https://github.com/yourusername/task-manager",
+      "live": "https://task-manager-demo.vercel.app"
+    },
+    "date": "2024-03",
+    "featured": true
+  }
+]

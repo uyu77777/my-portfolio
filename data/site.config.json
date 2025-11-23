@@ -1,0 +1,17 @@
+{
+  "name": "Kai",
+  "title": "Developer & Builder",
+  "tagline": "I like to build kind of cool and funny stuff.",
+  "description": "Full-stack developer passionate about creating delightful digital experiences.",
+  "navigation": [
+    { "label": "Home", "href": "/" },
+    { "label": "Projects", "href": "/#projects" },
+    { "label": "About", "href": "/about" },
+    { "label": "Contact", "href": "/contact" }
+  ],
+  "socialLinks": [
+    { "name": "GitHub", "url": "https://github.com", "icon": "github" },
+    { "name": "Twitter", "url": "https://twitter.com", "icon": "twitter" },
+    { "name": "LinkedIn", "url": "https://linkedin.com", "icon": "linkedin" }
+  ]
+}
