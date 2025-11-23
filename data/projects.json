@@ -1,25 +1,29 @@
 [
   {
     "id": "project-1",
-    "title": "AI Chat Interface",
-    "slug": "ai-chat-interface",
-    "summary": "Real-time chat with streaming AI responses and message persistence.",
-    "description": "A full-featured chat application built with Next.js and the AI SDK. Features real-time messaging, streaming responses, dark mode support, and a clean, minimal UI.",
+    "title": "Personal Blog",
+    "slug": "personal-blog",
+    "summary": "My personal website — by me, for me.",
+    "description": "A blog site I made for myself, primarily using HTML and CSS. I update it occasionally. Pure self-indulgence.",
     "image": "/placeholder.svg?height=400&width=600",
     "thumbnail": "/placeholder.svg?height=200&width=300",
-    "technologies": ["Next.js", "React", "TypeScript", "Tailwind CSS", "AI SDK"],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "Markdown"
+    ],
     "features": [
-      "Real-time streaming responses",
-      "Message history with persistence",
-      "Dark mode optimized",
-      "Responsive design",
-      "Type-safe implementation"
+      "focused on readability and user experience.",
+      "Content Management",
+      "Serves as a digital identity space to showcase ideas and experiments.",
+      "minimalist design",
+      "Playful Concept"
     ],
     "links": {
-      "github": "https://github.com/yourusername/ai-chat",
-      "live": "https://ai-chat-demo.vercel.app"
+      "github": "https://github.com/uyu77777/uyu77777.github.io",
+      "live": "https://uyu77777.github.io"
     },
-    "date": "2024-01",
+    "date": "2025-11",
     "featured": true
   },
   {
@@ -30,7 +34,12 @@
     "description": "A custom component library featuring buttons, cards, inputs, and more. Built with TypeScript, Tailwind CSS, and Storybook for interactive documentation.",
     "image": "/placeholder.svg?height=400&width=600",
     "thumbnail": "/placeholder.svg?height=200&width=300",
-    "technologies": ["React", "TypeScript", "Tailwind CSS", "Storybook"],
+    "technologies": [
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Storybook"
+    ],
     "features": [
       "60+ UI components",
       "Fully typed with TypeScript",
@@ -53,7 +62,12 @@
     "description": "A powerful task management application with real-time collaboration, custom workflows, and detailed analytics. Built for teams who want to get things done.",
     "image": "/placeholder.svg?height=400&width=600",
     "thumbnail": "/placeholder.svg?height=200&width=300",
-    "technologies": ["Next.js", "TypeScript", "Supabase", "Tailwind CSS"],
+    "technologies": [
+      "Next.js",
+      "TypeScript",
+      "Supabase",
+      "Tailwind CSS"
+    ],
     "features": [
       "Real-time collaboration",
       "Custom workflows",

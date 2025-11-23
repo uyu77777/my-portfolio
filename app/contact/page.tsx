@@ -46,7 +46,7 @@ export default function Contact() {
                 <div>
                   <h3 className="font-mono text-accent-green mb-2">Email</h3>
                   <a
-                    href="mailto:hello@kai.dev"
+                    href="mailto:Uryux777@gmail.com"
                     className="text-muted-foreground hover:text-accent-cyan transition-colors"
                   >
                     hello@kai.dev
