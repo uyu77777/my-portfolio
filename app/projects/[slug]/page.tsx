@@ -72,7 +72,7 @@ export default async function ProjectPage({ params }: ProjectPageProps) {
             </div>
 
             <div className="glass rounded-lg p-6">
-              <h2 className="text-xl font-mono font-semibold text-accent-cyan mb-4">Technologies</h2>
+              <h2 className="text-xl font-mono font-semibold text-accent-cyan mb-4">Skills</h2>
               <div className="flex flex-wrap gap-2">
                 {project.technologies.map((tech) => (
                   <span

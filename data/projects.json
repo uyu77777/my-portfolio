@@ -10,7 +10,8 @@
     "technologies": [
       "HTML",
       "CSS",
-      "Markdown"
+      "Markdown",
+      "Writing"
     ],
     "features": [
       "focused on readability and user experience.",
@@ -28,30 +29,29 @@
   },
   {
     "id": "project-2",
-    "title": "Design System Component Library",
-    "slug": "design-system",
-    "summary": "Reusable UI component library with comprehensive documentation.",
-    "description": "A custom component library featuring buttons, cards, inputs, and more. Built with TypeScript, Tailwind CSS, and Storybook for interactive documentation.",
-    "image": "/placeholder.svg?height=400&width=600",
-    "thumbnail": "/placeholder.svg?height=200&width=300",
+    "title": "UKdawn",
+    "slug": "online-shop",
+    "summary": "Online Apparel Shop and bland",
+    "description": "We sell affordable secondhand clothing as well as our own apparel brand, aiming to achieve economies of scale and create new value.",
+    "image": "/picture2.png?height=400&width=600",
+    "thumbnail": "/picture1.png?height=200&width=300",
     "technologies": [
-      "React",
-      "TypeScript",
-      "Tailwind CSS",
-      "Storybook"
+      "design",
+      "marketing",
+      "Manegement"
     ],
     "features": [
-      "60+ UI components",
-      "Fully typed with TypeScript",
-      "Storybook documentation",
-      "Dark mode support",
-      "Accessibility compliant"
+      "E-commerce Platform Integration",
+      "Simple UI",
+      "Story telling",
+      "Cross-platform Marketing Integration",
+      "Customer support"
     ],
     "links": {
       "github": "https://github.com/yourusername/design-system",
-      "live": "https://design-system-demo.vercel.app"
+      "live": "https://ukdawn.official.ec/"
     },
-    "date": "2024-02",
+    "date": "2025-07",
     "featured": true
   },
   {
@@ -60,8 +60,8 @@
     "slug": "task-manager",
     "summary": "Collaborative task manager with real-time updates and team features.",
     "description": "A powerful task management application with real-time collaboration, custom workflows, and detailed analytics. Built for teams who want to get things done.",
-    "image": "/placeholder.svg?height=400&width=600",
-    "thumbnail": "/placeholder.svg?height=200&width=300",
+    "image": "/picture2.png?height=400&width=600",
+    "thumbnail": "/picture1.png?height=200&width=300",
     "technologies": [
       "Next.js",
       "TypeScript",
