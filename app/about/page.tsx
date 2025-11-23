@@ -12,22 +12,22 @@ export default function About() {
 
           <div className="space-y-6 text-muted-foreground">
             <p className="leading-relaxed">
-              I'm a full-stack developer with a passion for building delightful digital experiences. I started my
-              journey in web development a few years ago and have since worked on projects ranging from small startups
-              to larger-scale applications.
+              I am passionate about creating captivating experiences that make an impact on people.
+              I enjoy coming up with cool and fun ideas, designing them, and bringing them to life.
             </p>
 
             <p className="leading-relaxed">
-              My expertise spans across modern web technologies including React, Next.js, TypeScript, and Tailwind CSS.
-              I'm particularly interested in AI integration, real-time applications, and creating seamless user
-              experiences.
+              My expertise spans across modern web technologies.
+              I am interested in AI, robotics, and quantum computing technologies,
+              and in exploring how they can be understood from a humanities perspective.
             </p>
 
-            <p className="leading-relaxed">
+            {/* <p className="leading-relaxed">
               When I'm not coding, you can find me exploring new technologies, contributing to open source, or tinkering
               with side projects. I believe in continuous learning and staying up-to-date with the latest developments
               in web technologies.
-            </p>
+            </p>             */}
+
 
             <div className="pt-4">
               <h2 className="text-2xl font-mono font-semibold text-accent-cyan mb-4">Skills & Technologies</h2>

@@ -9,12 +9,11 @@ export function Hero() {
 
           <p className="text-xl sm:text-2xl text-muted-foreground leading-relaxed">
             I like to build <span className="text-accent-cyan font-mono">kind of cool</span> and{" "}
-            <span className="text-accent-green font-mono">funny stuff.</span>
+            <span className="text-accent-green font-mono">fun stuff.</span>
           </p>
 
           <p className="text-muted-foreground max-w-lg leading-relaxed">
-            Full-stack developer passionate about creating delightful digital experiences. I specialize in modern web
-            technologies, AI integration, and thoughtful design.
+            A free spirit passionate about creating captivating experiences.
           </p>
         </div>
 

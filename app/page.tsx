@@ -18,7 +18,7 @@ export default function Home() {
               <h2 className="text-4xl font-bold mb-3">
                 <span className="glow-green">$ featured projects</span>
               </h2>
-              <p className="text-muted-foreground">A selection of work I'm proud of.</p>
+              <p className="text-muted-foreground">A selection of work </p>
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
