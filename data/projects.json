@@ -1,5 +1,31 @@
 [
   {
+    "id": "project-4",
+    "title": "2ch with AI",
+    "slug": "2chwithAI",
+    "summary": "2chでスレッドを立てるとAIユーザーが反応します",
+    "description": "When you start a thread on 2ch, AI users respond.",
+    "image": "/picture5.png?height=400&width=600",
+    "thumbnail": "/picture5.png?height=200&width=300",
+    "technologies": [
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS"
+    ],
+    "features": [
+      "AI-powered interaction",
+      "Minimalist UX",
+      "Scalable architecture",
+      "Playful concept execution"
+    ],
+    "links": {
+      "github": "https://github.com/yourusername/task-manager",
+      "live": "https://twochannel.lovable.app/"
+    },
+    "date": "2025-11",
+    "featured": true
+  },
+  {
     "id": "project-1",
     "title": "Personal Blog",
     "slug": "personal-blog",
@@ -58,7 +84,7 @@
     "id": "project-3",
     "title": "CatGPT",
     "slug": "cat-gpt",
-    "summary": "A cat will answer your questions.",
+    "summary": "猫になんでも聞いてみましょう！",
     "description": "Add the LINE account as a friend, and you can literally chat with a cat.",
     "image": "/picture4.png?height=400&width=600",
     "thumbnail": "/picture4.png?height=200&width=300",
